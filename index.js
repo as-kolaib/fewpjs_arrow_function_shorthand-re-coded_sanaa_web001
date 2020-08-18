@@ -1,6 +1,5 @@
-let divide = (a,b) {
-  let a=2000 , b= 100;
-  return a / b ;
+function divide () {
+  return 2000 / 100 ;
 } 
 let square = (x) => x **2 ;
 let add = (x , y) => x + y;
